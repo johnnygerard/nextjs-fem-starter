@@ -1,19 +1,4 @@
 {
-  "name": "fem-mortgage-repayment-calculator",
-  "version": "0.1.0",
-  "private": true,
-  "engines": {
-    "node": "22",
-    "pnpm": "9"
-  },
-  "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build",
-    "format": "prettier --write .",
-    "format:check": "prettier --check .",
-    "start": "next start",
-    "lint": "next lint"
-  },
   "dependencies": {
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
@@ -30,5 +15,20 @@
     "prettier-plugin-tailwindcss": "0.6.9",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  }
+  },
+  "engines": {
+    "node": "22",
+    "pnpm": "9"
+  },
+  "name": "fem-mortgage-repayment-calculator",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev --turbopack",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "lint": "next lint",
+    "start": "next start"
+  },
+  "version": "0.1.0"
 }
