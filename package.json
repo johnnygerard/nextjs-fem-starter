@@ -20,7 +20,7 @@
     "node": "22",
     "pnpm": "9"
   },
-  "name": "fem-mortgage-repayment-calculator",
+  "name": "nextjs-fem-starter",
   "private": true,
   "scripts": {
     "build": "next build",
