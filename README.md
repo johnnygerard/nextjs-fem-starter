@@ -19,6 +19,11 @@ from [Frontend Mentor](https://www.frontendmentor.io/).
 
 - **CDN**: Static assets served from [Vercel Edge Network](https://vercel.com/docs/edge-network/overview).
 
+### Testing
+
+- [Jest](https://jestjs.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+
 ## Dev Environment & Tools
 
 - System: [Ubuntu 24](https://ubuntu.com/desktop)
